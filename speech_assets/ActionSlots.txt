@@ -1,0 +1,6 @@
+ACTIONS
+=======
+Mine
+Farm
+Collect Wood
+Fight a Dragon 

@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "ActionIntent",
+      "slots": [
+        {
+          "name": "Action",
+          "type": "ACTIONS"
+        }
+      ]
+    },
+    {
+      "intent": "StartIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

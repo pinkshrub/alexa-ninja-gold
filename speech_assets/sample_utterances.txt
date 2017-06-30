@@ -1,0 +1,16 @@
+StartIntent Yes
+StartIntent Let's Play
+StartIntent Let's Play Ninja Gold
+StartIntent Play Ninja Gold
+StartIntent Go
+StartIntent Sure
+StartIntent Sounds Good
+StartIntent Start
+
+ActionIntent I'd like to {Action}
+ActionIntent I would like to {Action}
+ActionIntent Can I {Action}
+ActionIntent Let's {Action}
+ActionIntent {Action}
+ActionIntent Go and {Action}
+ActionIntent How about {Action}
